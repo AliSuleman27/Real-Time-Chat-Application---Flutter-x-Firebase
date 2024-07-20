@@ -39,17 +39,21 @@ To get a local copy up and running follow these simple steps.
 #### 1. Clone the repo
    ```sh
    git clone https://github.com/AliSuleman27/Real-Time-Chat-Application---Flutter-x-Firebase.git
+   ```
 #### 2. Setup Firebase:
    1. Create a Firebase project in the Firebase Console.
    2. Add your Flutter app to the Firebase project through the Firebase Console, follow the setup steps and download the google-services.json file.
    3. Place the google-services.json file in the android/app directory of your Flutter app.
    4. For iOS, place the GoogleService-Info.plist file in the ios/Runner directory.
+
 #### 3. Install Dependencies
    ```sh
    flutter pub get
-#### 4. Run the project
+   ```
+##### 4. Run the project
    ```sh
    flutter run
+   ```
 
 ### Usage
 1. Register and authenticate using your email.
