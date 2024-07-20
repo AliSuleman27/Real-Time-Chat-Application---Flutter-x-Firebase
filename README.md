@@ -1,4 +1,4 @@
-# pchat_app
+# Real Time Chat Application - Flutter x Firebase
 
 A new Flutter project.
 
