@@ -30,4 +30,17 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username/your_repository.git
+   git clone https://github.com/AliSuleman27/Real-Time-Chat-Application---Flutter-x-Firebase.git
+2. Setting Up Firebase.
+   2.0 Create a Firebase and Create a Project - Also Enable Analytics
+   2.1 Install Firebase CLI
+   ```sh
+   npm install -g firebase-tools
+   2.2 Login in to Firebase Account
+   ```sh
+   firebase login
+   2.3 Add the FlutterFire CLI dart dependency from anywhere
+   ```sh
+   dart pub global activate flutterfire_cli
+   
+   
