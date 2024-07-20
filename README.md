@@ -1,16 +1,33 @@
-# Real Time Chat Application - Flutter x Firebase
+# Flutter Firebase Chat Application
 
-A new Flutter project.
+![Flutter](https://img.shields.io/badge/Flutter-2.5.0-blue?logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-9.0.0-orange?logo=firebase)
+
+A real-time chat application built with Flutter and Firebase, showcasing various functionalities of both technologies.
+
+## Features
+
+- **Real-time Messaging**: Chat instantly with registered users.
+- **Authentication**: Secure email authentication powered by Firebase Auth.
+- **Media Support**: Send and receive text messages as well as images.
+- **Real-time Notifications**: Get notified instantly on new messages.
+- **Search Functionality**: Search for registered users to start a chat.
+- **Block Functionality**: Block users to prevent further communication.
+- **Responsive UI**: Designed for a smooth user experience across devices.
+
+## Screenshots
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get a local copy up and running follow these simple steps.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK
+- Firebase account and project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/your_username/your_repository.git
