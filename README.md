@@ -7,10 +7,19 @@ A real-time chat application built with Flutter and Firebase, showcasing various
 
 ## Contact
 Feel free to reach out to me via email or connect with me on LinkedIn and GitHub:
-- 📧 Email: [alisulemanrajpar27@gmail.com](mailto:alisulemanrajpar27@gmail.com)
-- [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="22px"/> LinkedIn](https://www.linkedin.com/in/ali-suleman-a511942aa)
-- [<img src="https://img.icons8.com/color/48/000000/github--v1.png" width="22px"/> GitHub](https://github.com/AliSuleman27)
-- 📞 Phone: +92 310-7744-817
+- 📧 Email: [alisulemanrajpar27@gmail.com](mailto:alisulemanrajpar27@gmail.com) - [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="22px"/> LinkedIn](https://www.linkedin.com/in/ali-suleman-a511942aa) - [<img src="https://img.icons8.com/color/48/000000/github--v1.png" width="22px"/> GitHub](https://github.com/AliSuleman27) - 📞 Phone: +92 310-7744-817
+
+
+## Screenshots
+<center>
+<img src="https://github.com/user-attachments/assets/6d05e236-754a-47b0-93d2-4ae9eae2a8a0" alt="Client 1" width="180" height="400" style="margin-right: 40px;"/>
+<img src="https://github.com/user-attachments/assets/301c37c0-fe41-4387-971a-c088d01571f7" alt="Client 2" width="180" height="400" style="margin-right: 40px;"/>
+<img src="https://github.com/user-attachments/assets/31f7b167-a366-4d03-8296-a9c493bf6d9d" alt="Login Screen" width="180" height="400" style="margin-right: 40px;"/>
+<br>
+<img src="https://github.com/user-attachments/assets/84466dff-fd3e-48b0-abc0-6f09d1a22d30" alt="Registration Verification" width="180" height="400" style="margin-right: 40px;"/>
+<img src="https://github.com/user-attachments/assets/ed19e1ae-4ed8-4d17-8f35-a54b6be7a3ca" alt="Sign Up Form" width="180" height="400" style="margin-right: 40px;"/>
+<img src="https://github.com/user-attachments/assets/763c3f2c-dcbc-41d4-82db-e5fe4f58510c" alt="Search Realtime" width="180" height="400" style="margin-right: 40px;"/>
+</center>
 
 
 ## Features
@@ -23,17 +32,6 @@ Feel free to reach out to me via email or connect with me on LinkedIn and GitHub
 - **Block Functionality**: Block users to prevent further communication.
 - **Responsive UI**: Designed for a smooth user experience across devices.
 
-## Screenshots
-
-<img src="https://github.com/user-attachments/assets/6d05e236-754a-47b0-93d2-4ae9eae2a8a0" alt="Client 1" width="180" height="400" style="margin-right: 20px;"/>
-<img src="https://github.com/user-attachments/assets/301c37c0-fe41-4387-971a-c088d01571f7" alt="Client 2" width="180" height="400" style="margin-right: 20px;"/>
-<img src="https://github.com/user-attachments/assets/31f7b167-a366-4d03-8296-a9c493bf6d9d" alt="Login Screen" width="180" height="400" style="margin-right: 20px;"/>
-
-<br>
-
-<img src="https://github.com/user-attachments/assets/84466dff-fd3e-48b0-abc0-6f09d1a22d30" alt="Registration Verification" width="180" height="400" style="margin-right: 20px;"/>
-<img src="https://github.com/user-attachments/assets/ed19e1ae-4ed8-4d17-8f35-a54b6be7a3ca" alt="Sign Up Form" width="180" height="400" style="margin-right: 20px;"/>
-<img src="https://github.com/user-attachments/assets/763c3f2c-dcbc-41d4-82db-e5fe4f58510c" alt="Search Realtime" width="180" height="400" style="margin-right: 20px;"/>
 
 ## Getting Started
 
